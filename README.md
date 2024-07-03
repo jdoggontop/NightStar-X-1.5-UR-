@@ -1,7 +1,3 @@
-# NightStar-X-1.5-UR-
+NightStar X was a powerful Roblox exploit known for its midrange DLL integration, intuitive SimpleUI, and built-in Script Hub. Although no longer in development, it was celebrated for its innovative design and user-friendly features, making script execution easy and efficient.
 
-A Discontinued Roblox Exploit Which Features Its Own DLL And Useful Features Such As SimpleUI And Script Hub 
-
-This Is An Unrealesed Version Of NightStar X Which The Last Released Version Was 1.2
-
-This Exploit Was Based Off The IL LBI 
+Nightstar is no longer in development due to Roblox inlining core functions, which caused the exploit to slowly break over time.
